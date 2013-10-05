@@ -1,0 +1,22 @@
+body{padding-top:50px;padding-bottom:20px}
+html,body{height:100%}
+#wrap{min-height:100%;height:auto!important;margin:0 auto -60px;padding:0 0 60px}
+#footer{color:#ededed;height:100px;background-color:#1e73be}
+#wrap > .container{padding:60px 15px 0}
+.container .credit{margin:20px 0}
+#footer > .container{padding-left:15px;padding-right:15px}
+.img-circle{-webkit-border-radius:500px;-moz-border-radius:500px;border-radius:500px}
+.navbar-tigefa{background-color:#1e73be;border-color:#1e73be}
+.navbar-tigefa .navbar-nav > .active > a,.navbar-tigefa .navbar-nav > .active > a:hover,.navbar-tigefa .navbar-nav > .active > a:focus{color:#ededed;background-color:#1c31e8}
+.navbar-tigefa .navbar-toggle{border-color:#ededed}
+.navbar-tigefa .navbar-collapse,.navbar-tigefa .navbar-form{border-color:#1e73be}
+.navbar-tigefa .navbar-nav > .open > a,.navbar-tigefa .navbar-nav > .open > a:hover,.navbar-tigefa .navbar-nav > .open > a:focus{color:#ededed;background-color:#1e73be}
+#footer a,.navbar-tigefa .navbar-brand,.navbar-tigefa .navbar-text,.navbar-tigefa .navbar-nav > li > a,.navbar-tigefa .navbar-link,.navbar-tigefa .navbar-link:hover{color:#ededed}
+.navbar-tigefa .navbar-brand:hover,.navbar-tigefa .navbar-brand:focus,.navbar-tigefa .navbar-nav > li > a:hover,.navbar-tigefa .navbar-nav > li > a:focus,.navbar-tigefa .navbar-nav > .disabled > a,.navbar-tigefa .navbar-nav > .disabled > a:hover,.navbar-tigefa .navbar-nav > .disabled > a:focus{color:#ededed;background-color:transparent}
+.navbar-tigefa .navbar-toggle:hover,.navbar-tigefa .navbar-toggle:focus,.navbar-tigefa .navbar-toggle .icon-bar{background-color:#ededed}
+.navbar-tigefa .navbar-nav > .dropdown > a:hover .caret,.navbar-tigefa .navbar-nav > .dropdown > a:focus .caret,.navbar-tigefa .navbar-nav > .open > a .caret,.navbar-tigefa .navbar-nav > .open > a:hover .caret,.navbar-tigefa .navbar-nav > .open > a:focus .caret,.navbar-tigefa .navbar-nav > .dropdown > a .caret{border-top-color:#ededed;border-bottom-color:#ededed}
+@media max-width 767px {
+.navbar-tigefa .navbar-nav .open .dropdown-menu > li > a{color:#ededed}
+.navbar-tigefa .navbar-nav .open .dropdown-menu > .active > a,.navbar-tigefa .navbar-nav .open .dropdown-menu > .active > a:hover,.navbar-tigefa .navbar-nav .open .dropdown-menu > .active > a:focus{color:#ededed;background-color:#e7e7e7}
+.navbar-tigefa .navbar-nav .open .dropdown-menu > li > a:hover,.navbar-tigefa .navbar-nav .open .dropdown-menu > li > a:focus,.navbar-tigefa .navbar-nav .open .dropdown-menu > .disabled > a,.navbar-tigefa .navbar-nav .open .dropdown-menu > .disabled > a:hover,.navbar-tigefa .navbar-nav .open .dropdown-menu > .disabled > a:focus{color:#ededed;background-color:transparent}
+}
